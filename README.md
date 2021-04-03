@@ -1,16 +1,9 @@
 ![Background](https://media-exp1.licdn.com/dms/image/C5616AQFSRIQd11ESrA/profile-displaybackgroundimage-shrink_350_1400/0/1614625369568?e=1622678400&v=beta&t=4T0bGBoEiAggwkIA1453w3-HFGLa6Hj2GjuUWzTXuO4)
 
-- 👋 Hi, I’m @DieG02
-- 👀 I’m interested in code and skateboarding
-- 🌱 I’m currently learning some technologies like React-Native & Firebase
-- 💞️ I’m looking to collaborate on open source projects to acquire experience
-- 📫 Conctact me by [Email](mailto:diegobautista2002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/diegobautista02/)
-
-
 <h1 align='center'>
-    ¡Hello there 🖖🏼 I'm Diego Bautista 👨🏻‍💻 !
+    ¡Hi there 🖖🏼 I'm Diego Bautista 👨🏻‍💻 !
     <p align='center'>
- Frontend/Web Developer & <img src="https://angular.io/assets/images/logos/react/react.svg" width="17">
+ Fullstack / Web Developer & <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="17">
  React Lover 
 </p>
 </h1>
@@ -20,14 +13,12 @@ Where to find me:
 </p>
 
 <p align='center'>
-<a href="https://twitter.com/yeoudev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-<a href="https://www.linkedin.com/in/antoniocardenas1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/diegobautista02/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://discord.gg/da6ZjWePhA" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://www.facebook.com/yeoudev" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=antoniocardenas&show_icons=true&count_private=true&theme=dark" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DieG02&show_icons=true&count_private=true&theme=dark" width="450"></a>
 </p>
   
 <p align='center'>
@@ -114,6 +105,12 @@ Where to find me:
 </a> 
 
 
+
+- 👋 Hi, I’m @DieG02
+- 👀 I’m interested in code and skateboarding
+- 🌱 I’m currently learning some technologies like React-Native & Firebase
+- 💞️ I’m looking to collaborate on open source projects to acquire experience
+- 📫 Conctact me by [Email](mailto:diegobautista2002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/diegobautista02/)
 
 
 <!---
