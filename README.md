@@ -1,3 +1,5 @@
+![Sin titulo](file:///C:/Users/diego/AppData/Roaming/Microsoft/Windows/Network%20Shortcuts/landing.jpg)
+
 - 👋 Hi, I’m @DieG02
 - 👀 I’m interested in code and skateboarding
 - 🌱 I’m currently learning some technologies like React-Native & Firebase
