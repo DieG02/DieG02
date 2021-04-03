@@ -23,9 +23,9 @@ Where to find me:
 </p>
   
 <p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/DieG02/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AntonioCardenas&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.DieG02.vercel.app/api/top-langs/?username=DiegoBautista&layout=compact&theme=tokyonight" />
 </a>
 </p>
   
@@ -36,9 +36,10 @@ Where to find me:
 )](https://www.youtube.com/c/MacaoTech/videos)
 [![Dev.To](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white?style=for-the-badge)](https://dev.to/nges/)
 
-<!-- <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/antoniocardenas/antoniocardenas"></a> Come as you're </p>
--->
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/antoniocardenas/antoniocardenas"></a> Come as you're 
+</p>
+
 <details>
   <summary>📃 Others</summary>
   
@@ -69,7 +70,7 @@ Where to find me:
   <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </a>
 <a>
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/express%20-%23404D59.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 </a>
 <a>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -80,7 +81,7 @@ Where to find me:
 
 ## ⚙️ Anothers
 <a>
-  <img alt="Firebase"  src="https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
 </a> 
 <a>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
