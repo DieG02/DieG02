@@ -95,6 +95,8 @@
 ## 👨🏻‍💻 Currently learning
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  
 
+</details>
+
 
 <p>
 
@@ -102,15 +104,20 @@
 
 </p>
 
-##  ✍🏻 👀  Proyects & Interests
-
-<a>
-  <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23E62117.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+##  👀 My Interests
 <p>
-  🛹 Code and Skateboarding  
+  👨🏻‍💻 Code
+  🎧 Listening music
+  🛹 Skateboarding  
   &nbsp;
 </p>
+
+##  ✍🏻 See my proyects below
+<p>
+  &nbsp;
+</p>
+
+
 <!---
 DieG02/DieG02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
