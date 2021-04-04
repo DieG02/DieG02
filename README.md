@@ -17,7 +17,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.gg/da6ZjWePhA" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+    <img alt="Discord" src="https://img.shields.io/badge/DieG02#1118-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:diegobautista2002@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -97,26 +97,25 @@
 
 </details>
 
-
 <p>
-
   &nbsp;
-
 </p>
 
 ##  👀 My Interests
 <p>
   👨🏻‍💻 Code
+</p>
+<p>
   🎧 Listening music
+</p>
+<p>
   🛹 Skateboarding  
+  
   &nbsp;
 </p>
+
 
 ##  ✍🏻 See my proyects below
-<p>
-  &nbsp;
-</p>
-
 
 <!---
 DieG02/DieG02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
