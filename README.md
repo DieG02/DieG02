@@ -36,7 +36,9 @@
   
 ##  ✍🏻 👀  Proyects & Interests
 
-[![YouTube](https://img.shields.io/badge/youtube-%23E62117.svg?&style=for-the-badge&logo=youtube&logoColor=white)]
+<a>
+  <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23E62117.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 🛹 Code and Skateboarding
 
 
@@ -116,7 +118,7 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
 </a>
 <a>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23303030.svg?&style=for-the-badge&logo=linux&logoColor=F7DF1E"/>
 </a> 
 
 
