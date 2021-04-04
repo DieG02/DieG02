@@ -57,7 +57,7 @@
 
   ## 🕹️ Playgrounds
   <a href="https://www.codewars.com/users/FR13NDS">
-    <img alt="Codewars" src="https://img.shields.io/badge/codewars- 222222.svg?&style=for-the-badge&logo=codewars&logoColor=B1361E"/>  
+    <img alt="Codewars" src="https://img.shields.io/badge/codewars-222222.svg?&style=for-the-badge&logo=codewars&logoColor=B1361E"/>  
   </a>
 
   ## 📃 IDEs that I've used
