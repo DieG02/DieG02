@@ -56,15 +56,18 @@
 
 
   ## 🕹️ Playgrounds
-  <img alt="Codewars" src="https://img.shields.io/badge/codewars-%23222222.svg?&style=for-the-badge&logo=codewars&logoColor=B1361E"/>  
+  <a href="https://www.codewars.com/users/FR13NDS">
+    <img alt="Codewars" src="https://img.shields.io/badge/codewars-%23222222.svg?&style=for-the-badge&logo=codewars&logoColor=B1361E"/>  
+  </a>
 
-
-  ## 📃 My favourite IDE
-  <img alt="VS-Code" src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
+  ## 📃 IDE's that I used
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/vs code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
+  <img alt="Atom" src="https://img.shields.io/badge/atom-%2360B57E.svg?&style=for-the-badge&logo=atom&logoColor=white"/>  
+  <img alt="Sublime" src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
 
 
   ## 💽 Operating systems that I use
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-%23252525.svg?&style=for-the-badge&logo=windows&logoColor=0078D6"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%23F7DF1E.svg?&style=for-the-badge&logo=linux&logoColor=white"/>  
 
 
