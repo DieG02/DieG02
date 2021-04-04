@@ -83,49 +83,35 @@
 
 
 ## 🎲 Anothers
-<a>
-  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-<a>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-</a> 
-<a>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-<a>
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
-</a>
-<a>
-  <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
-</a>
-<a>
-  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%232C2C2C.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-</a>
+<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+ 
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
+<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
+
+<img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
+
+<img alt="Figma" src="https://img.shields.io/badge/figma%20-%232C2C2C.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+
 
 
 ## 🕹️ Playgrounds
-<a>
-  <img alt="Codewars" src="https://img.shields.io/badge/codewars-%23222222.svg?&style=for-the-badge&logo=codewars&logoColor=B1361E"/>
-</a> 
+<img alt="Codewars" src="https://img.shields.io/badge/codewars-%23222222.svg?&style=for-the-badge&logo=codewars&logoColor=B1361E"/>
+
 
 ## 📃 IDE's that I usually use
-<a>
-  <img alt="VS-Code" src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</a> 
+<img alt="VS-Code" src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 
 ## 💽 Operating systems that I use
-<a>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
-</a>
-<a>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23303030.svg?&style=for-the-badge&logo=linux&logoColor=F7DF1E"/>
-</a> 
+<img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-%23F7DF1E.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
 
 
 ## 👨🏻‍💻 Currently learning
-<a>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-</a> 
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
 
 <!---
