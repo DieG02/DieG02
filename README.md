@@ -1,7 +1,7 @@
 ![Background](https://media-exp1.licdn.com/dms/image/C5616AQFSRIQd11ESrA/profile-displaybackgroundimage-shrink_350_1400/0/1614625369568?e=1622678400&v=beta&t=4T0bGBoEiAggwkIA1453w3-HFGLa6Hj2GjuUWzTXuO4)
 
 <h1 align='center'>
-  ¡Hi there 🖖🏼 I'm Diego Bautista 👨🏻‍💻 !
+  ¡Hi there 👋, I'm Diego Bautista 🙋‍♂️!
   <p align='center'>
     Fullstack / Web Developer & <img src="https://reactnative.dev/img/header_logo.svg" width="20">
     React Lover 
@@ -20,7 +20,7 @@
     <img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:diegobautista2002@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D54C3F.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -34,19 +34,18 @@
   </a>
 </p>
   
-##  ✍🏻 ⌨️ Content from me and friends
+##  ✍🏻 👀  Proyects & Interests
 
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white?style=for-the-badge)](https://medium.com/@yeoudev/)
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white
+[![YouTube](https://img.shields.io/badge/youtube-%23FF2222svg?&style=for-the-badge&logo=youtube&logoColor=white
 )](https://www.youtube.com/c/MacaoTech/videos)
-[![Dev.To](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white?style=for-the-badge)](https://dev.to/nges/)
+🛹 Code and Skateboarding
 
 
 
 <details>
-  <summary>📃 Others</summary>
+  <summary>📃 Skills & More</summary>
   
-## ⚙️ Programming Languages
+## 💻 Programming Languages
 <a>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </a> 
@@ -82,7 +81,7 @@
 </a>
 
 
-## ⚙️ Anothers
+## 🎲 Anothers
 <a>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
@@ -93,27 +92,32 @@
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 <a>
+  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
+</a>
+<a>
+  <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
+</a>
+<a>
   <img alt="Figma" src="https://img.shields.io/badge/figma%20-%232C2C2C.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
 
 
 ## 🕹️ Playgrounds
-<a><img src="https://img.shields.io/badge/Code pen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/Glitch-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white"/>
+<a>
+  <img alt="Codewars" src="https://img.shields.io/badge/codewars-%23222222.svg?&style=for-the-badge&logo=codewars&logoColor=B1361E"/>
 </a> 
 
 ## 📃 IDE's that I usually use
 <a>
-  <img src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="VS-Code" src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </a> 
 
 ## 💽 Operating systems that I use
 <a>
-  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
 </a> 
 
 
@@ -121,16 +125,6 @@
 <a>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 </a> 
-
-
-
-
-
-- 👋 Hi, I’m @DieG02
-- 👀 I’m interested in code and skateboarding
-- 🌱 I’m currently learning some technologies like React-Native & Firebase
-- 💞️ I’m looking to collaborate on open source projects to acquire experience
-- 📫 Conctact me by [Email](mailto:diegobautista2002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/diegobautista02/)
 
 
 <!---
