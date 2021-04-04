@@ -14,13 +14,13 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/diegobautista02/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" title="diegobautista02" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.com/channels/@me">
     <img alt="Discord" title="DieG02#1118" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:diegobautista2002@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Gmail" title="diegobautista2002@gmail.com"  src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -110,12 +110,11 @@
 </p>
 <p>
   🛹 Skateboarding  
-
   &nbsp;
 </p>
 
 
-##  ✍🏻 See my proyects below
+##  ✍🏻 See my proyects below 👇
 
 <!---
 DieG02/DieG02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
