@@ -20,7 +20,7 @@
     <img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:diegobautista2002@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -36,8 +36,7 @@
   
 ##  ✍🏻 👀  Proyects & Interests
 
-[![YouTube](https://img.shields.io/badge/youtube-%23FF2222svg?&style=for-the-badge&logo=youtube&logoColor=white
-)](https://www.youtube.com/c/MacaoTech/videos)
+[![YouTube](https://img.shields.io/badge/youtube-%23E62117.svg?&style=for-the-badge&logo=youtube&logoColor=white)]
 🛹 Code and Skateboarding
 
 
@@ -56,7 +55,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
 <a>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%233C873A.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
 
 
@@ -65,7 +64,7 @@
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </a>
 <a>
-  <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+  <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 </a>
 <a>
   <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
