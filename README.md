@@ -3,7 +3,7 @@
 <h1 align='center'>
   ¡Hi there 👋, I'm Diego Bautista 🙋‍♂️!
   <p align='center'>
-    Fullstack / Web Developer & <img src="https://reactnative.dev/img/header_logo.svg" width="20">
+    Full Stack / Front End Developer & <img src="https://reactnative.dev/img/header_logo.svg" width="20">
     React Lover 
   </p>
 </h1>
@@ -34,14 +34,6 @@
   </a>
 </p>
   
-##  ✍🏻 👀  Proyects & Interests
-
-<a>
-  <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23E62117.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-🛹 Code and Skateboarding  
-
-
 
 <details>
   <summary>📃 Skills & More</summary>
@@ -91,7 +83,7 @@
 <img alt="Codewars" src="https://img.shields.io/badge/codewars-%23222222.svg?&style=for-the-badge&logo=codewars&logoColor=B1361E"/>  
 
 
-## 📃 IDE's that I usually use
+## 📃 My favourite IDE
 <img alt="VS-Code" src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
 
 
@@ -104,6 +96,21 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  
 
 
+<p>
+
+  &nbsp;
+
+</p>
+
+##  ✍🏻 👀  Proyects & Interests
+
+<a>
+  <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23E62117.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<p>
+  🛹 Code and Skateboarding  
+  &nbsp;
+</p>
 <!---
 DieG02/DieG02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
