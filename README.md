@@ -3,7 +3,7 @@
 <h1 align='center'>
   ¡Hi there 👋, I'm Diego Bautista 🙋‍♂️!
   <p align='center'>
-    Full Stack & <img src="https://reactnative.dev/img/header_logo.svg" width="20"> React Lover 
+    Full Stack developer & <img src="https://reactnative.dev/img/header_logo.svg" width="20"> React Lover 
   </p>
 </h1>
 
