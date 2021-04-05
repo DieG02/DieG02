@@ -16,7 +16,7 @@
     <img alt="LinkedIn" title="diegobautista02" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.com/channels/DieG02#1118" target="_blank">
-    <img alt="Discord" title="DieG02#1118" src="https://img.shields.io/badge/discord%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+    <img alt="Discord" title="DieG02#1118" src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:diegobautista2002@gmail.com" target="_blank">
     <img alt="Gmail" title="diegobautista2002@gmail.com"  src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
