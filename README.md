@@ -1,4 +1,4 @@
-![Background](https://drive.google.com/file/d/14j5cCP9NzohEz3-I2sMUuRjpH_rlfBvF/view?usp=sharing)
+![Background](https://media-exp1.licdn.com/dms/image/C5616AQFSRIQd11ESrA/profile-displaybackgroundimage-shrink_200_800/0/1614625369568?e=1630540800&v=beta&t=QJYgFHfg7JrtblKwPtu6rht0Qi6YWzWWd0EKQ3B3VDA)
 
 <h1 align='center'>
   ¡Hi there 👋, I'm Diego Bautista 🙋‍♂️!
