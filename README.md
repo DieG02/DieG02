@@ -1,4 +1,4 @@
-![Background](https://i.ibb.co/GR9JGnc/background.jpg)
+![Background](https://i.ibb.co/d08qDMg/background.jpg)
 
 <h1 align='center'>
   ¡Hi there 👋, I'm Diego Bautista 🙋‍♂️!
