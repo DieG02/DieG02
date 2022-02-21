@@ -18,8 +18,8 @@
   <a href="https://discordapp.com/users/357236008540176385" target="_blank">
     <img alt="Discord" title="DieG02#1118" src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:diegobautista2002@gmail.com" target="_blank">
-    <img alt="Gmail" title="diegobautista2002@gmail.com"  src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:diegob0505@gmail.com" target="_blank">
+    <img alt="Gmail" title="diegob0505@gmail.com"  src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
